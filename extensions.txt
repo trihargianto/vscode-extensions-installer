@@ -1,0 +1,17 @@
+alefragnani.Bookmarks
+bierner.markdown-preview-github-styles
+dbaeumer.vscode-eslint
+eamodio.gitlens
+esbenp.prettier-vscode
+jcbuisson.vue
+jpoissonnier.vscode-styled-components
+kamikillerto.vscode-colorize
+ms-vscode.atom-keybindings
+octref.vetur
+ritwickdey.LiveServer
+sdras.night-owl
+silvenon.mdx
+stylelint.vscode-stylelint
+teabyii.ayu
+Tyriar.lorem-ipsum
+vscodevim.vim
