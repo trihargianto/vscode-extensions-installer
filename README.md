@@ -1,6 +1,6 @@
 # VSCode Extensions Installer
 
-This repository contains a list of vscode extensions to be installed instantly on your computer
+This repository contains a list of vscode extensions to be installed instantly on your computer.
 
 ## Available Extensions
 
@@ -35,3 +35,9 @@ git clone https://github.com/trihargianto/vscode-extensions-installer ~/vscode-e
 ## Use your own prefered extensions
 
 The available extensions above are my prefered extensions list as a web developer, and I know you will have your own extensions list. To use your own extensions list, you just need to fork th is repo and edit the [extensions.txt](extensions.txt) file.
+
+After fork this repo, you can utilize it as a tool to backup your vscode extensions. To update the [extensions.txt](extensions.txt) file using your current vscode extensions, simply run: 
+
+```shell
+code --list-extensions > extensions.txt
+```
